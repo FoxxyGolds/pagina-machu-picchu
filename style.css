@@ -22,3 +22,6 @@ main {
   text-decoration: none;
   border-radius: 5px;
 }
+.boton:hover {
+  background-color: #ff6f00;
+}
